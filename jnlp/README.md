@@ -5,4 +5,4 @@
 2) Docker image must have Java installed.
 3) Docker image must launch agent.jar by itself or using the EntryPoint Arguments below.
 
-** For sample image, build the above Dockerfile **
+**For sample image, build the above Dockerfile**
